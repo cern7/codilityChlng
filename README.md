@@ -1,5 +1,5 @@
 *Longest Password*
-![Alt text](LongestPassword-1.png)
+![Alt text](diagram/LongestPassword-1.png)
 
 *Flood Depth*
-![Alt text](FloodDepth.png)
+![Alt text](diagram/FloodDepth.png)
